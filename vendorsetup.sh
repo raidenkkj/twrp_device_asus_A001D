@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_A001D-userdebug
-add_lunch_combo omni_A001D-eng
+add_lunch_combo twrp_A001D-userdebug
+add_lunch_combo twrp_A001D-eng
 export ALLOW_MISSING_DEPENDENCIES=true
 export LC_ALL=C
