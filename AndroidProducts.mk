@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_A001D.mk
+     $(LOCAL_DIR)/twrp_A001D.mk
